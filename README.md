@@ -40,6 +40,14 @@ OSI MODEL--
 
 
 
+ sudo  vim key name 
+
+ key copy of private
+
+ 
+
+
+
 
 
 
